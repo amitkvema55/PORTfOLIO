@@ -143,7 +143,7 @@ function Home() {
                             <p className="text-white text-justify font-medium">
                             Developed an eCommerce store using HTML, CSS, Tailwind, and ReactJS, featuring a comprehensive product display and efficient cart management. Leveraged React for robust state handling and data management to ensure a seamless shopping experience. Designed an intuitive, responsive user interface with Tailwind for modern styling.
                             </p>
-                            <a href="https://ecomerc-web.netlify.app" target='__blank' className="text-2xl text-white bg-blue-500 px-4  py-2 rounded-md">View Site</a>
+                            <a href="https://ecommestore.netlify.app" target='__blank' className="text-2xl text-white bg-blue-500 px-4  py-2 rounded-md">View Site</a>
 
                         </div>
 
