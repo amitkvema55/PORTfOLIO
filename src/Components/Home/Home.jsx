@@ -64,7 +64,7 @@ function Home() {
         </div>
         <div className="w-5/6 px-10 py-20 text-white text-xl h-auto text-justify md:w-1/2">
             <p>
-            Recent graduate with a Bachelor's degree in Science (Mathematics) from Rakesh P.G. College, Pilani (Rajasthan). Strong problem-solving abilities and currently developing skills as a front-end developer.
+            Recent graduate with a Bachelor' degree in Science (Mathematics) from Rakesh P.G. College, Pilani (Rajasthan). Strong problem-solving abilities and currently developing skills as a front-end developer.
             </p>
           
        </div>
@@ -82,7 +82,8 @@ function Home() {
                     <li>HTML5</li>
                      <li>CSS</li>
                      <li>JavaScript</li>
-                     <li>React Js</li>
+                     <li>React JS</li>
+                     <li>TailWind CSS</li>
                 </div>
             </div>
 
@@ -144,6 +145,16 @@ function Home() {
                             Developed an eCommerce store using HTML, CSS, Tailwind, and ReactJS, featuring a comprehensive product display and efficient cart management. Leveraged React for robust state handling and data management to ensure a seamless shopping experience. Designed an intuitive, responsive user interface with Tailwind for modern styling.
                             </p>
                             <a href="https://ecommestore.netlify.app" target='__blank' className="text-2xl text-white bg-blue-500 px-4  py-2 rounded-md">View Site</a>
+
+                        </div>
+
+                        <div className="w-11/12 flex flex-col  gap-y-10 mx-auto my-10 bg-blue-900 p-8 rounded-lg hover:bg-transparent hover:border-2 border-blue-400 
+                        sm:p-16 sm:w-4/5 ">
+                            <h1 className="text-center text-white font-bold text-2xl  ">Blog App</h1>
+                            <p className="text-white text-justify font-medium">
+                            I built a modern blog app using React.js, designed for optimal performance and user experience. It features a sleek interface, responsive design, and integrates a Content Management System (CMS) for seamless post creation and management. This app provides an easy-to-use platform for creating and sharing engaging blog content.
+                            </p>
+                            <a href="https://blogssimple.netlify.app/" target='__blank' className="text-2xl text-white bg-blue-500 px-4  py-2 rounded-md">View Site</a>
 
                         </div>
 
