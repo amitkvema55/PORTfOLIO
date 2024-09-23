@@ -30,7 +30,7 @@ function Home() {
 
     <div className="flex justify-center gap-4 mt-11">
 
-    <a href="https://drive.google.com/file/d/1CorUanL5I808xvNZB87gGSZGdZiLaSY7/view?usp=sharing" target="blank" className='bg-blue-500 px-3 py-2 rounded-lg text-2xl text-white'>DownLoad CV</a>
+    <a href="https://drive.google.com/file/d/1o-Hnjm562v0CNurokcFnUyvR-lrINUdb/view?usp=sharing" target="blank" className='bg-blue-500 px-3 py-2 rounded-lg text-2xl text-white'>DownLoad CV</a>
 
                  
                     
